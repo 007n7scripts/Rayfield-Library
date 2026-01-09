@@ -1,12 +1,7 @@
-
-
-
-
-
-
-
-
-
+--[[
+     Rayfield Interface
+     By: TenshiDev
+--]]
 
 if debugX then
 	warn('Initialising Rayfield')
@@ -3994,3 +3989,4 @@ task.delay(4, function()
 end)
 
 return RayfieldLibrary
+
